@@ -1,5 +1,7 @@
 function sayHell(name) {
-	console.log('Hello mr/mrs ', name);
+  console.log("Hello mr/mrs ", name);
 }
 
-sayHell("Najma")
+sayHell("Najma");
+
+sayHell("Asma");
